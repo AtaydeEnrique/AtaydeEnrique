@@ -4,7 +4,7 @@
 
 ## I'm a Mechatronics Engineer, Developer, and Gamer!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Always learning, looing forward to improve everything i do!
 - 🌱 I’m currently learning Angular!
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
