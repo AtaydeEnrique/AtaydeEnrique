@@ -4,7 +4,7 @@
 
 ## I'm a Mechatronics Engineer, Developer, and Gamer!
 
-- 🔭 Always learning, looing forward to improve everything i do!
+- 🔭 Always learning, looking forward to improve everything i do!
 - 🌱 I’m currently learning Angular!
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
