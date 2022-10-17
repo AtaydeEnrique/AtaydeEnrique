@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ricardo][website] 👋
 
-[![Website](https://img.shields.io/badge/Atayde-lvl%20UP-green)](https://atayde.me)
+[![Website](https://img.shields.io/badge/Atayde-lvl%20UP-green)](https://atayde.tech)
 
 ## I'm a Mechatronics Engineer, Developer, and Gamer!
 
