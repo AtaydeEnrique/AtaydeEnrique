@@ -5,9 +5,9 @@
 ## I'm a Mechatronics Engineer, Developer, and Gamer!
 
 - 🔭 Always learning, looking forward to improve everything I do!
-- 🌱 I’m currently becoming a pro in Python!
+- 🌱 I’m currently becoming a pro in Python and Java!
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
