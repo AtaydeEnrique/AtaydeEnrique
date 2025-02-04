@@ -1,13 +1,13 @@
-### Hi there, I'm [Ricardo][website] 👋
+### Hi there, I'm [Enrique][website] 👋
 
-[![Website](https://img.shields.io/badge/Atayde-lvl%20UP-green)](https://atayde.tech)
+[![Website](https://img.shields.io/badge/Atayde-lvl%20UP-green)](https://www.ataydeenrique.com)
 
 ## I'm a Mechatronics Engineer, Developer, and Gamer!
 
 - 🔭 Always learning, looking forward to improve everything I do!
 - 🌱 I’m currently becoming a pro in Python and Java!
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -36,5 +36,5 @@
 <br />
 <br />
 
-[website]: https://atayde.me
+[website]: https://www.ataydeenrique.com
 [linkedin]: https://www.linkedin.com/in/ataydericardo/
